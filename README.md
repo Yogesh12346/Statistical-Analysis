@@ -1,4 +1,4 @@
-# 📘 Statistical Analysis & Predictive Modeling Project
+# Statistical Analysis & Predictive Modeling Project
 
 ---
 
